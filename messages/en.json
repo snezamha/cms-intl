@@ -1,0 +1,9 @@
+{
+  "Header": {
+    "home": "Home"
+  },
+  "Home": {
+    "title": "Main page",
+    "desc": "Description"
+  }
+}
